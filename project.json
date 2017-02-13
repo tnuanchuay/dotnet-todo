@@ -20,7 +20,8 @@
     "Microsoft.AspNetCore.Mvc": "1.0.1",
     "NETStandard.Library": "1.0.0-rc2-23811",
     "NUnit": "3.2.0",
-    "NUnit.Runners": "3.2.0"
+    "NUnit.Runners": "3.2.0",
+    "dotnet-test-nunit": "3.4.0-beta-1"
   },
 
   "tools": {
@@ -60,5 +61,6 @@
 
   "tooling": {
     "defaultNamespace": "todo_raw"
-  }
+  },
+  "testRunner": "nunit"
 }
