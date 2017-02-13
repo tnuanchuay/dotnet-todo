@@ -7,7 +7,7 @@
     "Microsoft.Extensions.Logging": "1.1.0",
     "Microsoft.Extensions.Logging.Console": "1.1.0",
     "Microsoft.Extensions.Logging.Debug": "1.1.0",
-    "Microsoft.ApplicationInsights.AspNetCore": "1.1.0",
+    "Microsoft.ApplicationInsights.AspNetCore": "2.0.0",
     "Microsoft.AspNetCore.Routing": "1.0.1",
     "Microsoft.AspNetCore.Diagnostics": "1.1.0",
     "Microsoft.AspNetCore.Server.IISIntegration": "1.1.0",
@@ -18,7 +18,7 @@
     "Microsoft.Extensions.Configuration.CommandLine": "1.1.0",
     "Microsoft.AspNetCore.StaticFiles": "1.0.0",
     "Microsoft.AspNetCore.Mvc": "1.0.1",
-    "NETStandard.Library": "1.0.0-rc2-23811",
+    "NETStandard.Library": "1.6.1",
     "NUnit": "3.2.0",
     "NUnit.Runners": "3.2.0",
     "dotnet-test-nunit": "3.4.0-beta-1"
